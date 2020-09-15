@@ -1,4 +1,4 @@
-# FlightGearSimulator
+# FlightGearApp
 
 
 A JavaFX desktop application, made for Advanced Software Development course.
