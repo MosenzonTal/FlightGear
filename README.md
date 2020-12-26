@@ -1,6 +1,6 @@
 ## FlightGear - Flight Simulator Desktop Application
 
-<p align="left">
+<p align="center">
   <img src="https://imagizer.imageshack.com/img922/7666/Q4uNZD.jpg" width="650" title="hover text">
 </p>
 A JavaFX desktop application, made for Advanced Software Development course.
@@ -21,9 +21,9 @@ the app was built by the use of the MVVM architecture.
   <img src="https://imagizer.imageshack.com/img923/2949/0gZ5o6.jpg" width="650" title="hover text">
 </p>
 
-###  You are welcome to look at my project presentation in the video attached here 
+###  You are welcome to look at my project presentation in the video attached here:
 [Project Explanation] 【﻿－>】 https://youtu.be/fHO5tvTnMjsvanced 
 
-<p align="left">
+<p align="center">
   <img src="https://i.redd.it/b55bnmiqk7s11.jpg" width="250" title="hover text">
 </p>
