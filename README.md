@@ -14,7 +14,8 @@ A JavaFX desktop application, made for Advanced Software Development course.
 
 • Load + Autopilot – Loads the script with the airplane commands and thanks to the Interpreter that I built, the plane goes into autopilot mode and executes the commands in the script.
 
-Manual – The manual button will move the aircraft from autopilot mode to manual mode where the user controls the aircraft with the joystick.
+• Manual – The manual button will move the aircraft from autopilot mode to manual mode where the user controls the aircraft with the joystick.
+
 ### UML diagram of the JavaFX Desktop Application
 
 The application is divided into two independent components, one component is the MapController, and the other consists of two additional components, the JoystickController and the DisplayScriptController.
@@ -34,6 +35,6 @@ the app was built by the use of the MVVM architecture.
 ###  You are welcome to look at my project presentation in the video attached here:
 [Project Explanation] 【﻿－>】 https://youtu.be/fHO5tvTnMjsvanced 
 
-<p align="center">
+<p align="left">
   <img src="https://i.redd.it/b55bnmiqk7s11.jpg" width="450" title="hover text">
 </p>
